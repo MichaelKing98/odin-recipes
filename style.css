@@ -7,6 +7,7 @@ body {
     margin: 0 auto; 
     max-width: 600px; 
     padding: 40px; 
+    letter-spacing: 2px;
 }
 
 /* Style the heading */
@@ -21,12 +22,17 @@ h1 {
 }
 
 /* Style the recipe links */
-p {
+h2 {
     text-align: center;
     padding: 20px;
     border: 2px solid white;
     border-radius: 15px;
     outline: 1px solid black;
+    margin: 20px 0; 
+}
+p {
+    text-align: center;
+    padding: 20px;
     margin: 20px 0; 
 }
 
@@ -40,4 +46,16 @@ a {
 /* Change link color on hover */
 a:hover {
     color: #333; 
+}
+
+ul {
+    list-style: square inside
+  }
+ol {
+    list-style: lower-roman;
+}
+
+img {
+    width: 600px;
+    height: auto;
 }
