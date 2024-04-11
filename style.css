@@ -1,0 +1,41 @@
+h1 {
+    font-family: "Whisper";
+    font-size: 102px;
+    font-weight: 800px;
+    color: purple;
+    text-align: center;
+    align-content: center;
+}
+body {
+    background-image: url(./images/Pink\ Green\ Simple\ Creative\ Watercolor\ Blank\ Template\ Instagram\ Story.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 40%;
+}
+
+p {
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 32px;
+    padding: 20px;
+    border: 2px solid white;
+    outline: 1px solid black;
+}
+a {
+    color:black;
+}
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+  
